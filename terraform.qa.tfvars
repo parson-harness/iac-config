@@ -3,5 +3,4 @@ resource_group_name = "Harness-SE-RG"
 tags = {
   environment = "qa"
   owner       = "parson"
-  costcenter  = "12345"
 }
