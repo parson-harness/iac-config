@@ -2,5 +2,5 @@ name                = "parson.dev.mycorp.com"
 resource_group_name = "Harness-SE-RG"
 tags = {
   environment = "dev"
-  costcenter  = "67890"
+  costcenter  = "56789"
 }
